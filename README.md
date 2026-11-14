@@ -6,10 +6,6 @@ This project focuses on designing and implementing a small business network infr
 
 The network uses a Cisco router and a central switch to connect the departments and enable communication across different VLANs.
 
-## Network Topology
-
-![Small Business Network Topology](screenshots/network-topology.png)
-
 ## Network Requirements
 
 The network was designed to meet the following requirements:
