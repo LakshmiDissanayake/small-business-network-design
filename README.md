@@ -64,7 +64,7 @@ DHCP is used to automatically assign IPv4 addresses to network devices, reducing
 | File | Description |
 |---|---|
 | [Cisco Packet Tracer Project](Network-Design.pkt) | Download the network simulation file |
-| [Network Screenshots](screenshots/) | View network topology and implementation screenshots |
+| [Network Screenshots](./screenshots/) | View network topology and implementation screenshots |
 
 ## Learning Outcomes
 
